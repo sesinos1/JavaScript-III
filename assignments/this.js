@@ -1,10 +1,10 @@
 /* The for principles of "this";
 * in your own words. explain the four principle for the "this" keyword below.
 *
-* 1. 
-* 2. 
-* 3. 
-* 4. 
+* 1. Is the function called by new?
+* 2. Is the function called by call(), apply(), or bind()?
+* 3. Is the function called as a method, ie: obj.func()?
+* 4. Is the function called in the global scope?
 *
 * write out a code example of each explanation above
 */
